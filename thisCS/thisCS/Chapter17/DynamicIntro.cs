@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace thisCS.Chapter16
+namespace thisCS.Chapter17
 {
     class MyClass
     {
