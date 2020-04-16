@@ -6,7 +6,16 @@ namespace thisCS.Chapter04
 {
     class AssignmentOperator
     {
-        //생략...
+        //static void Main(string[] args)
+        //{
+        //    int a = 10;
+        //    Console.WriteLine(a++);
+        //    Console.WriteLine(++a);
+
+        //    Console.WriteLine(a--);
+        //    Console.WriteLine(--a);
+
+        //}
     }
 }
 /* 할당 연산자

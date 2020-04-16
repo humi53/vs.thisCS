@@ -6,7 +6,15 @@ namespace thisCS.Chapter04
 {
     class RelationalOperator
     {
-        //생략..
+        //static void Main(string [] args)
+        //{
+        //    Console.WriteLine($"3 > 4 : {3 > 4}");
+        //    Console.WriteLine($"3 >= 4 : {3 >= 4}");
+        //    Console.WriteLine($"3 < 4 : {3 < 4}");
+        //    Console.WriteLine($"3 <= 4 : {3 <= 4}");
+        //    Console.WriteLine($"3 == 4 : {3 == 4}");
+        //    Console.WriteLine($"3 != 4 : {3 != 4}");
+        //}
     }
 }
 /* 관계연산자
